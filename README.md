@@ -82,8 +82,7 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-<img width="733" height="550" alt="Screen Shot 2026-05-11 at 13 22 21" src="https://github.com/user-attachments/assets/569f2372-054d-4621-a95d-993b8c4c8898" />
-
+<img width="690" height="137" alt="Screen Shot 2026-05-11 at 13 25 20" src="https://github.com/user-attachments/assets/89527c14-fced-40d5-a0fe-78ce68134cfc" />
 
 
 
